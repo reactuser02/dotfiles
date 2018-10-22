@@ -1,0 +1,71 @@
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.colorTheme": "Night Owl",
+
+  "window.titleBarStyle": "custom",
+
+  "editor.fontFamily": "'Dank Mono'",
+
+  "editor.fontLigatures": true,
+
+  "window.zoomLevel": 2,
+
+  "editor.formatOnSave": true,
+
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#000C1D",
+    "activityBar.border": "#102a44",
+    "sideBar.background": "#001122",
+    "sideBar.border": "#102a44",
+    "sideBar.foreground": "#8BADC1"
+  },
+
+  "emmet.includeLanguages": { "javascript": "javascriptreact" },
+
+  "html.format.enable": true,
+  "html.format.preserveNewLines": true,
+  "files.trimTrailingWhitespace": true,
+
+  "extensions.ignoreRecommendations": false,
+
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/.next": true
+  },
+
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/**": true
+  },
+
+  "bracketPairColorizer.forceIterationColorCycle": true,
+  "telemetry.enableTelemetry": false,
+  "workbench.settings.enableNaturalLanguageSearch": false,
+  "workbench.enableExperiments": false,
+  "telemetry.enableCrashReporter": false,
+  "breadcrumbs.enabled": true,
+  // show snippets before any other auto completion
+  "editor.snippetSuggestions": "top",
+
+  // this lets you quickly open multiple items in a row and not have the previous ones closed on you
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 3,
+
+  "editor.wordWrap": "on",
+  "editor.minimap.showSlider": "always",
+
+  "editor.cursorBlinking": "solid",
+  "editor.colorDecorators": false,
+
+  "editor.renderWhitespace": "none",
+
+  "eslint.autoFixOnSave": true,
+  "eslint.alwaysShowStatus": true
+}
